@@ -1,5 +1,7 @@
 # Towards Bio-Inspired Robotic Trajectory Planning via Self-Supervised RNN
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17127997.svg)](https://doi.org/10.5281/zenodo.17127997)
+
 This is the code for kinematics experiment from the paper 
 [_Towards Bio-Inspired Robotic Trajectory Planning via Self-Supervised RNN_](https://arxiv.org/abs/2507.02171)
 presented at the International Conference on Artificial Neural Networks 2025.
